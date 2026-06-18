@@ -1,5 +1,5 @@
 # 3D Physics Simulations
-3D simulations of classic physical scenarios like masses on springs, pendulums and more using the vPython library
+3D simulations of classic physical scenarios like masses on springs, pendulums and more on Jupyter Notebook using the VPython library.
 
 
 ## Installation
